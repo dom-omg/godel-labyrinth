@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+test_*.py
+.env
+# vault.meta is public (hash only, not the key)
+# vault.aes is public (encrypted, safe to commit)
