@@ -98,15 +98,13 @@ The canonical proof bypasses this barrier through a direct mathematical construc
 ## Bounty
 
 ```
-ETH Address: [SET BY BOUNTY ISSUER]
+ETH Address: 0x093BA9Ff561b4C3A510D99E445f5E36c17F98891
 Amount:      0.01 ETH
 ```
 
-The vault contains an Ethereum private key.  
-First player to independently derive the canonical proof unlocks it.
-
-*Note: The vault.aes in this repo contains a placeholder during setup.  
-The live bounty address will be announced on X (@dom_omg) when funded.*
+The vault contains the Ethereum private key for the above address.  
+First player to independently derive the canonical proof unlocks it.  
+Verify the balance: [etherscan.io/address/0x093BA9Ff561b4C3A510D99E445f5E36c17F98891](https://etherscan.io/address/0x093BA9Ff561b4C3A510D99E445f5E36c17F98891)
 
 ---
 
