@@ -1,3 +1,5 @@
+[![COBALT Security Scan](https://github.com/dom-omg/godel-labyrinth/actions/workflows/cobalt.yml/badge.svg)](https://github.com/marketplace/actions/cobalt-security-scanner)
+
 # GÖDEL LABYRINTH — Room 0: The Pigeonhole Trap
 
 > *Z3 is a monster at solving equations. It cannot count.*
